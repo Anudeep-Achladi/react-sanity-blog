@@ -1,0 +1,7 @@
+.home-main {
+  background-color: rgb(232, 255, 248);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

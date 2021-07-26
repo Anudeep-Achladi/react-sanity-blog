@@ -1,0 +1,40 @@
+.blogs-page {
+  background: rgb(233, 233, 233);
+  padding: 2rem;
+  height: 100%;
+}
+
+.container-blog {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.titl-blog-posts {
+  font-size: 3rem;
+  letter-spacing: 1px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+}
+
+.welcome-titl {
+  color: rgb(68, 67, 67);
+  font-size: 1.3rem;
+  margin-top: 0.5rem;
+  margin-bottom: 3rem;
+  display: flex;
+  justify-content: center;
+}
+
+.posts-grid {
+  display: grid;
+  width: 40rem;
+  grid-template-columns: auto auto auto;
+  grid-gap: 1rem;
+  box-shadow: 0 0 40px -25px;
+  padding: 0.5rem;
+}
+
+.post-titl {
+  font-size: 1.2rem;
+}
